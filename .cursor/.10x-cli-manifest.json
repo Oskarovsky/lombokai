@@ -1,0 +1,38 @@
+{
+  "package": "@przeprogramowani/10x-cli",
+  "version": "1.8.0",
+  "manifestVersion": 3,
+  "lastApplied": "2026-06-12T07:07:36.153Z",
+  "lessonId": "m4l2",
+  "course": "10xdevs3",
+  "tool": "cursor",
+  "files": {
+    "skills": {},
+    "prompts": [
+      "m4l2-1-territory-git-history.md",
+      "m4l2-2-structure-dependency-cruiser.md",
+      "m4l2-3-contributors-git.md",
+      "m4l2-repo-map-synthesis.md"
+    ],
+    "configs": [],
+    "promptHashes": {
+      "m4l2-1-territory-git-history.md": "b091036f132cd84d7183f45b4c605b03a38689020f22ad4cbdc188e0b8b705f6",
+      "m4l2-2-structure-dependency-cruiser.md": "232a5f4fdef77abca785142a9ad2e798835f38ac9f27b90a731260db95ad3ded",
+      "m4l2-3-contributors-git.md": "8f318f946f5671678938cc64bc2b25270115b650e17454381f520ea2c3cf7d51",
+      "m4l2-repo-map-synthesis.md": "338042d637f695a528e273a9e283f17228a684e41f98cb03ff3d5325f794bc94"
+    }
+  },
+  "lessons": {
+    "m4l2": {
+      "appliedAt": "2026-06-12T07:07:36.153Z",
+      "skills": {},
+      "prompts": [
+        "m4l2-1-territory-git-history.md",
+        "m4l2-2-structure-dependency-cruiser.md",
+        "m4l2-3-contributors-git.md",
+        "m4l2-repo-map-synthesis.md"
+      ],
+      "configs": []
+    }
+  }
+}
