@@ -1,7 +1,7 @@
 ---
 change_id: post-flow-analysis
 title: Analysis of function call flow for Lombok annotations
-status: new
+status: preparing
 created: 2026-06-17
 updated: 2026-06-17
 archived_at: null
